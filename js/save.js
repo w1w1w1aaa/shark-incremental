@@ -137,7 +137,7 @@ function getPlayerData() {
 
         latest_time: Date.now(),
 
-        language: "EN",
+        language: "KO",
 
         VERSION: VERSION,
         timePlayed: 0,
